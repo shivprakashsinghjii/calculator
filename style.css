@@ -1,0 +1,23 @@
+.final{
+  width: 250px;
+  height:50px;
+  margin: 10px;
+
+}
+.area{
+  width: 280px;
+  height: 540px;
+  border: 1px solid black;
+}
+.a{
+  height: 70px;
+  width: 70px;
+  margin: 2px;
+}
+.first_line{
+  display:flex;
+  justify-content: center;
+  margin-bottom: 2px;
+  
+  
+}
